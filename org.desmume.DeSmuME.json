@@ -71,7 +71,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/TASEmulators/desmume",
-                    "commit": "efd7486357ed1dbc0c6b4366b6676977b9296639"
+                    "commit": "0536aa6262b4728b78dc457dca2ec2019c50f5d4"
                 }
             ]
         }
